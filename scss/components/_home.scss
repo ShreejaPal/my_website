@@ -1,5 +1,5 @@
 .home {
-    padding: 0rem 10rem;
+    margin: 0rem 10rem;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: .4fr 1fr .5fr;
@@ -29,7 +29,7 @@
 
     #programmer {
         grid-area: img;
-        max-width: 350px;
+        max-width: 550px;
         justify-self: end;
     }
 
